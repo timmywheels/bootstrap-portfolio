@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap-grid.css">
+    <link rel="stylesheet" href="css/bootstrap-reboot.css">
+    <link rel="stylesheet" href="css/custom.css">
+
+    <title>Bootstrap Portfolio</title>
+</head>
+<body>
+<nav class="navbar navbar-toggleable-md navbar-dark bg-primary">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+            data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+            aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="#"><img height="50px" width="auto" src="img/tw-logo-white.png" alt="TW Logo"></a>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Features</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Pricing</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="http://example.com"
+                   id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" ariaexpanded="false">
+                    Dropdown link
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="#">Home</a>
+                    <a class="dropdown-item" href="#">Portfolio</a>
+                    <a class="dropdown-item" href="#">Contact</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</nav>
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="title text-center col-md-12">
+            <h1>Bootstrap Portfolio</h1>
+        </div>
+    </div>
+<div class="portfolio">
+<div class="row justify-content-center">
+    <div class="col-md-4">
+        <img class="portfolio-img" src="img/strtup-portfolio-placeholder.jpg" alt="Strtup Placeholder Image">
+    </div>
+    <div class="col-md-4">
+        <img class="portfolio-img" src="img/strtup-portfolio-placeholder.jpg" alt="Strtup Placeholder Image">
+    </div>
+    <div class="col-md-4">
+        <img class="portfolio-img" src="img/strtup-portfolio-placeholder.jpg" alt="Strtup Placeholder Image">
+    </div>
+</div>
+</div>
+<div class="row contact justify-content-center">
+    <form class="col-md-4">
+        <h3 class="form-title text-center">Get In Touch</h3>
+        <div class="form-group">
+            <input type="text" class="form-control" id="formName" ariadescribedby="formName"
+                   placeholder="Name*" required>
+            <input type="email" class="form-control" id="formEmail" ariadescribedby="formEmail"
+                   placeholder="Email*" required>
+            <input type="tel" class="form-control" id="formPhone" ariadescribedby="formPhone"
+                   placeholder="Phone">
+            <small id="emailHelp" class="form-text text-muted">We'll never share your email with
+                anyone else.</small>
+        </div>
+        <button type="submit" class="btn btn-primary">Reach Out</button>
+    </form>
+</div>
+
+</div>
+
+</body>
+</html>

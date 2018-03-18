@@ -1,0 +1,31 @@
+form{
+    border: 2px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 40px rgba(0,0,0,0.15);
+    background-color: #f9f9f9;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+
+.navbar{
+    padding: 0;
+}
+
+.title{
+    padding: 20px 0;
+}
+
+.portfolio{
+    margin-bottom: 20px;
+}
+
+.portfolio-img{
+    width: 300px;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 5px 5px 40px rgba(0,0,0,0.15);
+}
