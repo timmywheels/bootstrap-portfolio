@@ -1,9 +1,117 @@
+*{
+    outline: none !important;
+    font-family: Poppins, sans-serif;
+}
+
+html{
+    overflow-x: hidden;
+}
+
+body{
+    background-color: #fff;
+}
+
+.bg-red{
+    background-color: #c8102e !important;
+}
+
+.btn-red{
+    background-color: #c8102e;
+    color: #fff;
+}
+
+.sticky-nav{
+    padding: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
 form{
     border: 2px solid #ddd;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 5px 5px 40px rgba(0,0,0,0.15);
     background-color: #f9f9f9;
+}
+
+.shadow{
+    box-shadow: 5px 5px 40px rgba(0,0,0,0.15);
+}
+
+.nav-link {
+    text-align: center;
+    font-size: 30px;
+    text-transform: lowercase;
+    font-weight: 700;
+}
+
+.jumbotron{
+    min-height: 550px;
+}
+
+/* Angled Section */
+.hero-section,
+.portfolio-section{
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 91%, 0 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 91%, 0 100%);
+}
+
+.portfolio-section{
+    background-color: #fff;
+}
+
+.contact-section{
+    background-color: #eee;
+    padding: 10em 0;
+}
+
+.about-section {
+    background-color: #fff;
+    margin: 25px;
+    padding: 0;
+    border-radius: 5px;
+    padding: 25px;
+    font-weight: 100;
+}
+
+.form-section{
+    padding: 25px;
+    margin: 25px;
+}
+
+.about-headshot{
+    width: 100px;
+    height: auto;
+    margin: 10px auto 25px;
+    outline: 10px solid #c8102e;
+    border-radius: 50%;
+    display: block;
+}
+
+.about-title{
+    display: block;
+    font-weight: 700;
+    text-transform: initial;
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.about-description{
+    padding: 0 25px;
+}
+
+.about-cta{
+    font-weight: 700;
+    text-transform: lowercase;
+    margin-top: -15px;
+    color: #fff;
+}
+
+.jumbotron-fluid {
+    background: url(../img/tw-marketing-consultant-bg-red.svg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .form-control{
@@ -23,10 +131,62 @@ form{
     margin-top: 0;
 }
 
-.portfolio-img{
-    width: 300px;
-    height: auto;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    box-shadow: 5px 5px 40px rgba(0,0,0,0.15);
+.portfolio-row{
+    margin-bottom: 30px;
+}
+
+.portfolio-title,
+.form-title,
+.btn-text,
+.about-title,
+.about-cta{
+    font-weight: 700;
+    text-transform: lowercase;
+}
+
+
+/* Typewriter Animation Effect */
+.typewriter h1 {
+    color: #fff;
+    max-width: 350px;
+    float: right;
+    font-weight: 700;
+    font-size: 50px;
+    text-transform: lowercase;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid #fff; /* The typewriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 35px auto 0; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: 0em; /* Adjust as needed */
+    animation:
+            typing 3.5s steps(45, end),
+            blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #fff; }
+}
+
+
+.modal-dialog {
+    max-width: 500px;
+    margin: 10% auto;
+}
+
+.modal-btn{
+    width: 100%;
+    height: 75px;
+    font-size: 2em;
+}
+
+.sub-title{
+    float: right;
 }
