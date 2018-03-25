@@ -12,7 +12,7 @@
 </head>
 <body>
 <nav class="navbar navbar-toggleable-md navbar-dark bg-red sticky-nav">
-    <button class="navbar-toggler navbar-toggler-left" type="button" data-toggle="collapse"
+    <button class="navbar-toggler" type="button" data-toggle="collapse"
             data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
             aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -71,9 +71,6 @@
             <p class="about-description text-center">
                 I'm a Front-End Web Developer with a background in sales & marketing so I understand the importance of getting users to take action on your website.
             </p>
-            <h3 class="about-cta text-center">Let's Work Together.</h3>
-
-
 
             <!-- Button trigger modal -->
             <button type="button" class="btn btn-red about-cta text-center modal-btn" data-toggle="modal" data-target="#formModal">
@@ -83,21 +80,36 @@
             <!-- Modal -->
             <div class="modal" id="formModal" tabindex="-1" role="dialog" aria-labelledby="formModalLabel" aria-hidden="true">
                 <div class="modal-dialog" role="document">
-                        <form class="modal-content col-md-10 form-section shadow">
-                            <h3 class="form-title text-center">Get In Touch.</h3>
-                            <div class="form-group">
-                                <input type="text" class="form-control" id="formName" ariadescribedby="formName"
-                                       placeholder="name." required>
-                                <input type="email" class="form-control" id="formEmail" ariadescribedby="formEmail"
-                                       placeholder="email." required>
-                                <input type="tel" class="form-control" id="formPhone" ariadescribedby="formPhone"
-                                       placeholder="phone.">
-                            </div>
-                            <button type="submit" class="btn-text btn btn-red btn-block modal-btn">Reach Out.</button>
-                        </form>
+                    <form class="modal-content col-md-10 form-section shadow">
+                        <h3 class="form-title text-center">Get In Touch.</h3>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="formName" ariadescribedby="formName"
+                                   placeholder="name." required>
+                            <input type="email" class="form-control" id="formEmail" ariadescribedby="formEmail"
+                                   placeholder="email." required>
+                            <input type="tel" class="form-control" id="formPhone" ariadescribedby="formPhone"
+                                   placeholder="phone.">
+                        </div>
+                        <button type="submit" class="btn-text btn btn-red btn-block modal-btn">Reach Out.</button>
+                    </form>
                 </div>
             </div>
         </div>
+        <div class="container">
+            <div class="col-md-12 social-section justify-content-center row">
+                <div class="col-md-3 github">
+                    <a href="https://github.com/timwheelercom" target="_blank" rel="noopener">
+                        <img src="img/tw-github-red.svg" alt="Github Logo">
+                    </a>
+                </div>
+                <div class="col-md-3 linkedin">
+                    <a href="https://linkedin.com/in/timwheelercom" target="_blank" rel="noopener">
+                        <img src="img/tw-linkedin-red.svg" alt="LinkedIn Logo">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="js/bootstrap.js"></script>
 <script src="js/custom.js"></script>

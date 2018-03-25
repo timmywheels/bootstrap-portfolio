@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c8453f9-b394-493d-867c-adbca9fff4dd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/css/animate.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/css/animate.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-headshot-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-logo-white.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-marketing-consultant-bg-red.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-marketing-consultant-bg.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-portfolio-contraqtor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-portfolio-donaruma.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-portfolio-goresume.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-portfolio-helpfulcleaners.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-portfolio-lawnmode.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-portfolio-loanuse.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-portfolio-quikprice.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-portfolio-textmktg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-portfolio-theceobrand.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/js/custom.js" />
-      <change beforePath="$PROJECT_DIR$/bootstrap-1/css/bootstrap.css" afterPath="$PROJECT_DIR$/bootstrap-1/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-github-red.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-github-white.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-linkedin-red.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bootstrap-1/img/tw-linkedin-white.svg" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/bootstrap-1/css/custom.css" afterPath="$PROJECT_DIR$/bootstrap-1/css/custom.css" />
       <change beforePath="$PROJECT_DIR$/bootstrap-1/index.html" afterPath="$PROJECT_DIR$/bootstrap-1/index.html" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-1/js/custom.js" afterPath="$PROJECT_DIR$/bootstrap-1/js/custom.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,24 +22,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4936917">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/bootstrap-1/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="697">
-                  <caret line="102" column="22" lean-forward="false" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/bootstrap-1/js/custom.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state relative-caret-position="285">
+                  <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
                   <folding />
                 </state>
               </provider>
@@ -60,34 +39,22 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="custom.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/bootstrap-1/css/custom.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="254">
-                  <caret line="158" column="74" lean-forward="true" selection-start-line="158" selection-start-column="74" selection-end-line="158" selection-end-column="75" />
+                <state relative-caret-position="231">
+                  <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bootstrap-1/css/animate.css">
+          <file leaf-file-name="custom.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/bootstrap-1/js/custom.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+                <state relative-caret-position="165">
+                  <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/bootstrap-1/js/bootstrap.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1487">
-                  <caret line="3870" column="19" lean-forward="true" selection-start-line="3870" selection-start-column="19" selection-end-line="3870" selection-end-column="19" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -125,8 +92,8 @@
         <option value="$PROJECT_DIR$/bootstrap-1/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/bootstrap-1/css/animate.css" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
-        <option value="$PROJECT_DIR$/bootstrap-1/css/custom.css" />
         <option value="$PROJECT_DIR$/bootstrap-1/index.html" />
+        <option value="$PROJECT_DIR$/bootstrap-1/css/custom.css" />
         <option value="$PROJECT_DIR$/bootstrap-1/js/custom.js" />
       </list>
     </option>
@@ -138,10 +105,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-41" />
-    <option name="y" value="23" />
-    <option name="width" value="1895" />
-    <option name="height" value="966" />
+    <option name="x" value="22" />
+    <option name="y" value="126" />
+    <option name="width" value="1611" />
+    <option name="height" value="935" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -180,14 +147,26 @@
               <item name="bootstrap-portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrap-portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="bootstrap-1" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap-portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-1" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap-portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-1" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,32 +218,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521993948212</updated>
-      <workItem from="1521993957525" duration="14120000" />
+      <workItem from="1521993957525" duration="14317000" />
+      <workItem from="1522012807517" duration="3209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14120000" />
+    <option name="totallyTimeSpent" value="17526000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-41" y="23" width="1895" height="966" extended-state="0" />
+    <frame x="22" y="126" width="1611" height="935" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2828496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3327126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32997763" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6689038" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -292,21 +273,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-1/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1487">
-          <caret line="3870" column="19" lean-forward="true" selection-start-line="3870" selection-start-column="19" selection-end-line="3870" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -318,26 +288,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-1/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1487">
+          <caret line="3870" column="19" lean-forward="true" selection-start-line="3870" selection-start-column="19" selection-end-line="3870" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap-1/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="158" column="74" lean-forward="true" selection-start-line="158" selection-start-column="74" selection-end-line="158" selection-end-column="75" />
+        <state relative-caret-position="231">
+          <caret line="27" column="34" lean-forward="false" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap-1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="102" column="22" lean-forward="false" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
+        <state relative-caret-position="285">
+          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap-1/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           <folding />
         </state>
       </provider>

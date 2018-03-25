@@ -20,6 +20,14 @@ body{
     color: #fff;
 }
 
+.bg-black{
+    background-color: #333 !important;
+}
+
+.navbar-toggle-padding{
+    padding-bottom: 5em !important;
+}
+
 .sticky-nav{
     padding: 0;
     position: fixed;
@@ -36,6 +44,11 @@ form{
 
 .shadow{
     box-shadow: 5px 5px 40px rgba(0,0,0,0.15);
+}
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, 1) !important;
+     border: none;
 }
 
 .nav-link {
@@ -97,7 +110,7 @@ form{
 }
 
 .about-description{
-    padding: 0 25px;
+    padding: 0 25px 25px;
 }
 
 .about-cta{
@@ -190,3 +203,37 @@ form{
 .sub-title{
     float: right;
 }
+
+.github,
+.linkedin{
+    display: inline-block;
+    margin: 0 auto;
+    width: 100px;
+    padding: 0;
+    margin: 10px;
+}
+
+.github img,
+.linkedin img{
+    width: 35px;
+    height: auto;
+    filter: grayscale(100%);
+    transition-property: opacity;
+    transition-duration: .5s;
+}
+
+.github img:hover,
+.linkedin img:hover{
+    opacity: 0.5;
+    transition-property: opacity;
+    transition-duration: .5s;
+}
+
+.github{
+    text-align: right;
+}
+
+.linkedin{
+    text-align: left;
+}
+
